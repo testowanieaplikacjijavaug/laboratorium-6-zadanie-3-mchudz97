@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf3ee74d-e0e0-4f6b-a392-31a6c5098b64" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="204" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZWXX8j9xDhGnDlUAuMOoh4EAH0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.AssertJTest">
+    <configuration name="AssertJTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Zad3Lab6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AssertJTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HamcrestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Zad3Lab6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HamcrestTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AssertJTest" />
+        <item itemvalue="JUnit.HamcrestTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf3ee74d-e0e0-4f6b-a392-31a6c5098b64" name="Default Changelist" comment="" />
+      <created>1584955860812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584955860812</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1864" height="258" key="GridCell.Tab.0.bottom" timestamp="1584989285879">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1864" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1584989285879" />
+    <state width="1864" height="258" key="GridCell.Tab.0.center" timestamp="1584989285878">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1864" height="258" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1584989285878" />
+    <state width="1864" height="258" key="GridCell.Tab.0.left" timestamp="1584989285878">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1864" height="258" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1584989285878" />
+    <state width="1864" height="258" key="GridCell.Tab.0.right" timestamp="1584989285879">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1864" height="258" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1584989285879" />
+    <state x="373" y="82" key="Maven.ArtifactSearchDialog" timestamp="1584956031161">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="373" y="82" key="Maven.ArtifactSearchDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1584956031161" />
+    <state x="638" y="66" key="refactoring.ChangeSignatureDialog" timestamp="1584987674256">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="638" y="66" key="refactoring.ChangeSignatureDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1584987674256" />
+    <state x="531" y="226" key="run.anything.popup" timestamp="1584989225306">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="531" y="226" key="run.anything.popup/0.0.1920.1030@0.0.1920.1030" timestamp="1584989225306" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Zad3Lab6$HamcrestTest.ic" NAME="HamcrestTest Coverage Results" MODIFIED="1584987728099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Zad3Lab6$AssertJTest.ic" NAME="AssertJTest Coverage Results" MODIFIED="1584989285848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
